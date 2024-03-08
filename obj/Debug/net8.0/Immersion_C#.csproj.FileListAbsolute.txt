@@ -1,0 +1,15 @@
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\bin\Debug\net8.0\Immersion_C#.exe
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\bin\Debug\net8.0\Immersion_C#.deps.json
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\bin\Debug\net8.0\Immersion_C#.runtimeconfig.json
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\bin\Debug\net8.0\Immersion_C#.dll
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\bin\Debug\net8.0\Immersion_C#.pdb
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\Immersion_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\Immersion_C#.AssemblyInfoInputs.cache
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\Immersion_C#.AssemblyInfo.cs
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\Immersion_C#.csproj.CoreCompileInputs.cache
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\Immersion_C#.sourcelink.json
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\Immersion_C#.dll
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\refint\Immersion_C#.dll
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\Immersion_C#.pdb
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\Immersion_C#.genruntimeconfig.cache
+D:\ВСЕ ПО ПРОГРАМИРОВАНИЮ\С#\Immersion_C#\Immersion_C#\obj\Debug\net8.0\ref\Immersion_C#.dll

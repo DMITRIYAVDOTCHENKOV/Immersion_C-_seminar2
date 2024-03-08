@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sg4NfNjG032KS9UpRqA7E5UMGzL5b0XH54sNvQgbtw4lJoJYn+LyJF+qvO3yY9ePr4UCi79Ttk5Lgmi75OOcrA==",
+  "success": true,
+  "projectFilePath": "D:\\ВСЕ ПО ПРОГРАМИРОВАНИЮ\\С#\\Immersion_C#\\Immersion_C#\\Immersion_C#_seminar2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitrii\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\Dmitrii\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\Dmitrii\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
