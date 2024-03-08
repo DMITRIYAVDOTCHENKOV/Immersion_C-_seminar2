@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Immersion_C#_seminar2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46ca8306c7afd1f5f9e979eb1b72cfd1b9b51bfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4df2826d36719823f95fb437182966283f36ff58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Immersion_C#_seminar2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Immersion_C#_seminar2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

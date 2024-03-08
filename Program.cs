@@ -5,10 +5,8 @@ namespace Immersion_C_
     {
         static void Main(string[] args)
         {
-            /*            Tasc_1 tasc_1 = new Tasc_1();
-                        tasc_1.CountNumbersDivisibleByThree();*/
-
-            Tasc_2.Tasc2();
+            Hw_seminar2 hw_Seminar2 = new Hw_seminar2();
+            hw_Seminar2.hw_seminar2();
         }
     }
 }
