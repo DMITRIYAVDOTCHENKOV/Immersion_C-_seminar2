@@ -18,8 +18,7 @@ namespace Immersion_C_
                 if (num % 2 == 1)
                 {
                     count++;
-                }
-                num /= 2;
+                }                              num /= 2;
             }
             Console.WriteLine(count);
         }
